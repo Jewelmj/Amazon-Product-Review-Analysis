@@ -15,6 +15,6 @@ pros: Its a unique tool.
 
 cons: it trains the model while the app is running which increases the time the app takes to start running.
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/4618138c-6918-4284-b2b1-457a0625bd14">
+here is a word could plot without ai: https://github.com/user-attachments/assets/4618138c-6918-4284-b2b1-457a0625bd14
 
-https://github.com/user-attachments/assets/50f2961c-97a8-4af8-b35d-57b54066c7b7
+here is a word could plot with ai: https:https://github.com/user-attachments/assets/50f2961c-97a8-4af8-b35d-57b54066c7b7
